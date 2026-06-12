@@ -1,9 +1,6 @@
 # Mohammad Izadi
 
 **M.Sc. Student in Artificial Intelligence | AI Researcher | Machine Learning Engineer**
-
-📍 Isfahan, Iran • 📧 [m.izadi@alumni.iut.ac.ir](mailto:m.izadi@alumni.iut.ac.ir) • 📞 +98 913 596 9170
-
 ---
 
 ## About Me
