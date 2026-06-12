@@ -1,8 +1,5 @@
 # Mohammad Izadi
 
-**M.Sc. Student in Artificial Intelligence | AI Researcher | Machine Learning Engineer**
----
-
 ## About Me
 
 Artificial Intelligence researcher with interests in **Graph Neural Networks, Knowledge Distillation, Medical AI, Mixture of Experts (MoE), Transformer Architectures, and Generative AI**. Experienced in developing AI-driven research tools, predictive systems, cybersecurity applications, and large-scale data processing solutions.
