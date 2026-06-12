@@ -16,16 +16,14 @@ Artificial Intelligence researcher with interests in **Graph Neural Networks, Kn
 
 ### Isfahan University of Technology
 
-**M.Sc. in Artificial Intelligence** *(2023–Present)*
-**GPA:** 15.02 / 20
+**M.Sc. in Artificial Intelligence** 
 
 **Thesis:**
 *Knowledge Distillation on Graph Neural Networks for Traffic Prediction*
 
 ### University of Kashan
 
-**B.Sc. in Software Engineering** *(2020)*
-**GPA:** 14.12 / 20
+**B.Sc. in Software Engineering**
 
 **Thesis:**
 *Web-Based Asset Management System for Kashan Power Distribution Department*
